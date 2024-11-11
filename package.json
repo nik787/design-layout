@@ -16,7 +16,7 @@
     "prettier": "prettier --write \"source/(scss|js)/**/*.(scss|css|js|json)\""
   },
   "dependencies": {
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.1.0",
     "picturefill": "^3.0.3"
   },
   "devDependencies": {
